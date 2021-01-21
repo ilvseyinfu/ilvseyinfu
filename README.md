@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p align="center">
-<a href="https://kalanithi.dev"><img src="https://github.com/ilvseyinfu/ilvseyinfu/blob/main/c.gif" /></a>
+<a href="https://kalanithi.dev"><img src="https://github.com/ilvseyinfu/ilvseyinfu/blob/main/b.gif" /></a>
 </p>
 
 
