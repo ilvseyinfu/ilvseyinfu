@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p align="center">
-<a href="https://kalanithi.dev"><img src="http://mi0.mmmono.com/a13a138354b47b8705b3fff8bf82c67a.gif" /></a>
+<a href="https://kalanithi.dev"><img src="https://raw.githubusercontent.com/IAmNithi/IAmNithi/master/images/super-kid.gif" /></a>
 </p>
 
 
