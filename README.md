@@ -29,4 +29,5 @@ Here are some ideas to get you started:
 #### 关于我
 
 * 我是liuyixiang
+* 新年快乐！
 
