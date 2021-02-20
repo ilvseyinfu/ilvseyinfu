@@ -1,9 +1,9 @@
 ### Hi there 👋
-
+<!--
 <p align="center">
 <a href="https://kalanithi.dev"><img src="https://github.com/ilvseyinfu/ilvseyinfu/blob/main/b.gif" /></a>
 </p>
-
+-->
 
 <!--
 **ilvseyinfu/ilvseyinfu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -30,4 +30,5 @@ Here are some ideas to get you started:
 
 * 我是liuyixiang
 * 新年快乐！
+* 加油打工人！
 
